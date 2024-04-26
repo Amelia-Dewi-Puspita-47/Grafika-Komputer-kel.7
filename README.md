@@ -1,8 +1,10 @@
-PROJECT PROGRESS
+**PROJECT PROGRESS**
 
-(3D World Kamar Kos)
+**(3D World Kamar Kos)**
 
-Anggota Kelompok :
+![Capture1](https://github.com/Amelia-Dewi-Puspita-47/Grafika-Komputer-kel.7/assets/146307507/ff4e084d-da33-49f2-84f8-087c974af315)
+
+**Anggota Kelompok :**
 
 2201020129 - Danda Khairunnas
 
