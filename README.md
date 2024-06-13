@@ -1,4 +1,4 @@
-**PROJECT PROGRESS**
+**FINAL PROJECT**
 
 **(3D World Kamar Kos)**
 
